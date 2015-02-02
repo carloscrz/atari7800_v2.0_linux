@@ -1,5 +1,5 @@
 /*
- * modified in 01/2015, by carlos
+ * modified in 01/2015, by carloscrz
  *
  *  Copyright (C) 2009 Ludovic Jacomme (ludovic.jacomme@gmail.com)
  *  This program is free software; you can redistribute it and/or modify
