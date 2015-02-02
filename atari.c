@@ -1,7 +1,8 @@
 /*
  *
  *  Ludovic Jacomme <Ludovic.Jacomme@gmail.com>
- *  
+ *
+ *  modified in 01/2015 by carloscrz
  *
 */
 
